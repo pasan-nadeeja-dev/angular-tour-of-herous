@@ -31,4 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ```bash
 #Install Angular CLI globaly using npm
 npm install -g @angular/cli
+
+#create new application with built in structure
+ng new my-app-name
 ```
